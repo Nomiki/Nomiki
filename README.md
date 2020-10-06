@@ -4,7 +4,7 @@ My name is Nissan and I'm a software engineer in [Tipalti](https://www.tipalti.c
 
 ![Nomiki's github stats](https://github-readme-stats.vercel.app/api?username=Nomiki&show_icons=true&theme=dark)
 
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png)](https://www.linkedin.com/in/nissan-cohen-48a50360/)
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png =50x50)](https://www.linkedin.com/in/nissan-cohen-48a50360/)
 <!--
 https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png
 https://www.facebook.com/cohennis
