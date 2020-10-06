@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings! 🤘
+
+My name is Nissan and I'm a software engineer in [Tipalti](https://www.tipalti.com).
+
+![Nomiki's github stats](https://github-readme-stats.vercel.app/api?username=Nomiki&show_icons=true)
+
 
 <!--
 **Nomiki/Nomiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
