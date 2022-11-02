@@ -1,6 +1,6 @@
 ### Greetings! 🤘
 
-My name is Nissan and I'm a software engineer in [Tipalti](https://www.tipalti.com).
+My name is Nissan and I'm a development team lead at [Tipalti](https://www.tipalti.com).
 
 ![Nomiki's github stats](https://github-readme-stats.vercel.app/api?username=Nomiki&show_icons=true&theme=dark)
 
