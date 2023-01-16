@@ -2,9 +2,6 @@
 
 My name is Nissan and I'm a development team lead at [Tipalti](https://www.tipalti.com).
 
-![Nomiki's github stats](https://github-readme-stats.vercel.app/api?username=Nomiki&show_icons=true&theme=dark)
-
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="32px">](https://www.linkedin.com/in/nissan-cohen-48a50360/) [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png" width="32px">](https://www.facebook.com/cohennis)
 <!--
 -->
 
