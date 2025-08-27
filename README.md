@@ -1,6 +1,6 @@
 ### Greetings! 🤘
 
-My name is Nissan and I'm a development team lead at [Wix](wix.com).
+My name is Nissan and I'm a development team lead at [Wix](https://wix.com).
 
 <!--
 -->
